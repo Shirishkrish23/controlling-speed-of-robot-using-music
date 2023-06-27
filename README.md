@@ -18,7 +18,7 @@ After creating the nodes that give us all the desired values, we now try to inte
 ```
 <command_topic>cmd_vel</command_topic>
 ```
-now, we have got a way to change the velocity of our robot and successfully linked it to Gazebo.
+now, we have got a way to change the velocity of our robot and successfully linked it to Gazebo. We just add this node to the existing launch file and if we launch Gazebo, this node will also run.
 
 Step 5:
 
