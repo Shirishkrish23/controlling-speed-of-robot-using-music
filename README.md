@@ -2,7 +2,7 @@
 
 Step 1:
 
-Here, what we do is that we, create a package in our ROS2 workspace in the name of ```articubot_one```. Why this name you mght ask, a YouTuber who runs the channel Articulated Robootics has already created the Gazebo file which we will be working on, as we don't tinker on any of the mechanics of the robot except speeed, we decided to use his model. Now we just go to his GitHub repository which has all the codes and use that.
+Here, what we do is that we, create a package in our ROS2 workspace in the name of ```articubot_one```. Why this name you mght ask, a YouTuber who runs the channel Articulated Robotics has already created the Gazebo file which we will be working on, as we don't tinker on any of the mechanics of the robot except speeed, we decided to use his model. Now we just go to his GitHub repository which has all the codes and use that.
 
 Step 2:
 
