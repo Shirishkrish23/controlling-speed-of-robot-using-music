@@ -20,7 +20,7 @@ After creating the nodes that give us all the desired values, we now try to inte
 ```
 now, we have got a way to change the velocity of our robot and successfully linked it to Gazebo.
 
-Step:5
+Step 5:
 
 We now just launch the Gazebo file by opening our ROS2 workspace directory and entering,
 ```
