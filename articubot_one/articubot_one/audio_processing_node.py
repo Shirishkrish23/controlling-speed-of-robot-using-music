@@ -45,7 +45,7 @@ class AudioProcessingNode(Node):
                 avg_magnitude = np.mean(magnitudes[indices])
 
                 # Store the speed command based on the average magnitude
-                value = avg_magnitude * speed
+                value = speed
                 values_to_publish.append(value)
 
             # Publish the stored values
